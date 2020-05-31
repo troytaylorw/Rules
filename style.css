@@ -1,0 +1,23 @@
+body{
+    font-size: 2em;
+    color: whitesmoke;
+    font-family: arial;
+    background: darkorchid;
+    line-height: 0.8;
+    font-weight: 900;
+}
+
+#rules{
+    position: fixed;
+    width: 80vw;
+    left: 10%;
+    list-style: border 1px solid #000000;
+}
+
+li {
+    outline: 1px solid whitesmoke;
+}
+
+h1{
+    font-size: 5vw;
+}
